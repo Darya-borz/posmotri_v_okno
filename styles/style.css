@@ -181,7 +181,7 @@ ol {
 
 
 
-search-form__label:has(:focus-visible) {
+.search-form__label:has(:focus-visible) {
     cursor: pointer;
     outline: 1px solid #FFF;
     outline-offset: 1px;
