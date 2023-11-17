@@ -294,6 +294,8 @@ ol {
 
 .content__card-link {
     text-decoration: none;
+    color:#FFF;
+    display:block;
 }
 
 .content__card-link:active {
@@ -303,6 +305,7 @@ ol {
 .content__card-link:hover {
     cursor:pointer;
     text-decoration:underline;
+    text-decoration-color:#FFF;
 }
 
 .content__card-link:focus {
